@@ -392,7 +392,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 #### England {-}
 
-  * Birmingham: [BRUM](https://www.meetup.com/BirminghamR/)
+  * Birmingham: [Birmingham R User Group](https://www.meetup.com/BirminghamR/); [\@BirminghamR](https://twitter.com/birminghamr)
   * Canterbury: [CanterburyR](https://www.meetup.com/Canterbury-R-Users-Group)
   * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __326__ R user groups and events. 
+twitter names are missing. There are currently __327__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -69,6 +69,7 @@ The format for listing an R event is
 ### May
 
   * May: [The European #rstats Users Meeting](http://2018.erum.io/). Budapest, Hungary. [\@erum2018](https://twitter.com/erum2018)
+  * May 22: [R Day](http://rday.leg.ufpr.br/). Curitiba, Brazil. [\@LEG_UFPR](https://twitter.com/LEG_UFPR)
 
 ### June
 

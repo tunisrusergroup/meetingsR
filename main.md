@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __327__ R user groups and events. 
+twitter names are missing. There are currently __328__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -536,7 +536,8 @@ knit: "bookdown::preview_chapter"
   * San Diego: [San Diego R Users Group](https://www.meetup.com/San-Diego-R-users-group)
   * San Diego: [University of California San Diego / Scripps Institution of Oceanography R Users Group](https://siomail.ucsd.edu/mailman/listinfo/r-users)
   * San Francisco / Bay Area: [BARUG](https://www.meetup.com/R-Users/)
-  * Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
+
+* Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
   * Whittier: [R Project for Statistical Computing Meetup](https://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
   
 #### Colorado {-}
@@ -582,6 +583,10 @@ knit: "bookdown::preview_chapter"
 #### Kansas {-}
 
   * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+  
+#### Louisiana {-}
+
+* New Orleans: [Tulane University R Fans ](https://tulaneuniversityrfans.wordpress.com/)
 
 #### Massachusetts {-}
 

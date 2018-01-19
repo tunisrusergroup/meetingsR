@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __329__ R user groups and events. 
+twitter names are missing. There are currently __330__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -651,6 +651,7 @@ knit: "bookdown::preview_chapter"
 #### Oregon {-}
 
   * Portland: [Portland R User Group](https://www.meetup.com/portland-r-user-group)
+  * Eugene: [Eugene R User Group](https://www.meetup.com/meetup-group-cwPiAlnB); [\@EugeneRUsers](https://twitter.com/EugeneRUsers)
 
 #### Pennsylvania {-}
 

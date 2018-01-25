@@ -366,7 +366,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Belgrade: [BelgradeR](https://www.meetup.com/BelgradeR/)
   
 ### Slovakia
-  * Bratislava: [R <- Slovakia](https://www.facebook.com/groups/931707906955080/)
+  * Bratislava: [R <- Slovakia](https://www.facebook.com/groups/931707906955080/); [R <- Slovakia @ Meetup.com](https://www.meetup.com/R-Slovakia/)
 
 ### Slovenia
 

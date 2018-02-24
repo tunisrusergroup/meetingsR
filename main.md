@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __331__ R user groups and events. 
+twitter names are missing. There are currently __333__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -49,6 +49,10 @@ The format for listing an R event is
 
 ## 2019 {-}
 
+### January
+
+  * January 15-18: [rstudio::conf](https://www.rstudio.com/conference/). Austin, USA.
+
 ### July
 
   * July (probably): useR! 2019. Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
@@ -74,6 +78,7 @@ The format for listing an R event is
 ### June
 
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
+ *  June 2: [CascadiaRConf](https://www.cascadiarconf.com). Portland (Oregon), USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
 
 ### July
 
@@ -115,7 +120,7 @@ The format for listing an R event is
   
 ### June
 
-  * June 3: [CascadiaRconf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
+  * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland (Oregon), USA. [\@cascadiarconf](https://twitter.com/cascadiarconf).
   * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/), San Francisco, USA.
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/), Paris, France. 
    

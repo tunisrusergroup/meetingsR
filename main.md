@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __338__ R user groups and events. 
+twitter names are missing. There are currently __339__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -89,6 +89,7 @@ The format for listing an R event is
 
 ### September
 
+* September 4-5: [LatinR 2018](http://latin-r.com/). Buenos Aires, Argentina. [\@LatinR2018](https://twitter.com/latinr2018)
  * September 11-13: [EARL London 2018](https://earlconf.com/london/). London, United Kingdom. [\@earlconf](https://twitter.com/earlconf)
  * September 12-14: The Use of R in Official Statistics. The Hague, The Netherlands. [\@uRos2018](https://twitter.com/uRos2018)
  

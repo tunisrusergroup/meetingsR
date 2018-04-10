@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __338__ R user groups and events. 
+twitter names are missing. There are currently __340__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -902,4 +902,26 @@ gender diversity in the R community.
  * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/)
 
 <!--chapter:end:03-Rladies.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+  
+# The data
+
+All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
+page.
+
+Additionally, you can download a convenient CSV file of the data
+
+ * Conferences: https://jumpingrivers.github.io/meetingsR/events.csv
+ * User Groups: https://jumpingrivers.github.io/meetingsR/groups.csv
+
+The R scripts used to generate these CSV files are also located in the GitHub repo
+
+> https://github.com/jumpingrivers/meetingsR/tree/master/R
+
+These scripts were initially create via the [eRum competition](https://blog.jumpingrivers.com/posts/2018/jumping_rivers_erum/)
+
+<!--chapter:end:09-download.Rmd-->
 

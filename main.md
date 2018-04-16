@@ -748,7 +748,7 @@ knit: "bookdown::preview_chapter"
 
 ## South America
 
-### Argentia
+### Argentina
 
   * Argentina Buenos Ares: [Grupo de Usarios de R Argentina](http://ar.i314.com.ar/)
 

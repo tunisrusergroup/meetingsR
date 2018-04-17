@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __340__ R user groups and events. 
+twitter names are missing. There are currently __341__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -772,6 +772,8 @@ knit: "bookdown::preview_chapter"
 ### Costa Rica
 
   * Quesada: [San Carlos R Users Group](https://www.meetup.com/San-Carlos-R-User-Group/)
+  
+  * Heredia: [Heredia R Users Group meetup](https://www.meetup.com/es/Heredia-R-User-Group/); [\@Heredia_rug](https://twitter.com/Heredia_rug)
 
 ### Ecuador   
 

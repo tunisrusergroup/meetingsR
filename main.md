@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __345__ R user groups and events. 
+twitter names are missing. There are currently __347__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -411,7 +411,8 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 ### Switzerland
   * Basel: [BaselR](http://www.baselr.org/)
-  * Geneva: [GenevaR](http://www.geneva-r.org/)
+  * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
+  * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
 ### UK
@@ -877,6 +878,10 @@ gender diversity in the R community.
   * Madrid: [Madrid](https://www.meetup.com/rladies-madrid); [\@RLadiesMAD](https://twitter.com/RLadiesMAD)
   * Barcelona: [Barcelona](https://www.meetup.com/es-ES/rladies-barcelona/); [\@RLadiesBCN](https://twitter.com/rladiesbcn)
   * Valencia: [Valencia](https://twitter.com/RLadiesValencia)
+
+### Switzerland
+
+ * Lausanne: [R-Ladies Lausanne](https://www.meetup.com/rladies-lausanne/); [\@RLadiesLausanne](https://twitter.com/rladieslausanne)
 
 ### Taipei
 

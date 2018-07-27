@@ -415,7 +415,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
   * Zurich: [Zurich R](https://www.meetup.com/Zurich-R-User-Group/) User Group
 
-### UK
+### United Kingdom
 
 #### England {-}
 

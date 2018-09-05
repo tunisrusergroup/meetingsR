@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __347__ R user groups and events. 
+twitter names are missing. There are currently __348__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -56,7 +56,7 @@ The format for listing an R event is
 
 ### July
 
-  * July (probably): useR! 2019. Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+  * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
 
 ## 2018 {-}
 
@@ -104,6 +104,7 @@ The format for listing an R event is
 ### October
 
  * October 26: [Noreast'R Conference](http://noreastrconf.com/). Providence, USA. [\@noreastrconf](https://twitter.com/noreastrconf/)
+ * October 27: [SatRday Belgrade](http://belgrade2018.satrdays.org/). Belgrade, Serbia.
 
 ### November
 

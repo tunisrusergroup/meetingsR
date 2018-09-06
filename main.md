@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __349__ R user groups and events. 
+twitter names are missing. There are currently __350__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -310,6 +310,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   *  Nancy: [Nancy Data Science](https://www.meetup.com/nancydatascience/)
   *  Nantes: [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
   *  Paris: [Semin-R](http://www.mnhn.fr/semin-r/)
+  *  Paris: [State of the R](http://stateofther.github.io/)
   *  Paris: [R Addicts Paris](https://www.meetup.com/rparis/events/124508332/)
   *  Paris: [R'n Blue](https://www.meetup.com/Rn-Blue/)
   *  Strasbourg: [StatsRbourg](https://www.meetup.com/StatsRbourg/)

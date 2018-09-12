@@ -210,7 +210,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 ### India
 
-  * Bangalore: [Bangalore R Users - BRU](https://groups.google.com/group/brumail)
+  * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
   * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/?scroll=true)
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __350__ R user groups and events. 
+twitter names are missing. There are currently __351__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -533,6 +533,7 @@ knit: "bookdown::preview_chapter"
 ### Canada 
   
   * Edmonton: [Edmonton R User Group](https://alberta.collegiatelink.net/organization/erug)
+  * Halifax: [Halifax R User Group](https://www.meetup.com/Bluenose-R-User-Group/)
   * Montréal: [Montreal R User Group](https://www.meetup.com/Montreal-R-User-Group/)
   * Ottawa: [Ottawa Gatineau R Users Group](https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa)
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)

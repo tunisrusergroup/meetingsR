@@ -22,6 +22,7 @@ year,month,date,name,link,city,country,twitter
 2018,November,November 7,EARL Seattle,https://earlconf.com/boston,Seattle,USA,earlconf
 2018,November,November 9,EARL Houston,https://earlconf.com/boston,Houston,USA,earlconf
 2018,November,November 13,EARL Boston,https://earlconf.com/boston,Boston,USA,earlconf
+2018,December,December 8,SatRDays DC,https://dc2018.satrdays.org/,Washington,DC,NA
 2017,January,January 11-14,rstudio::conf,https://www.rstudio.com/conference/,Kissmmee,USA,NA
 2017,February,February 16-18,satRday,http://satrdays.org/capetown2017/,Cape Town,South Africa,satRdays_org
 2017,March,March 4,#ODDZurich Hackathon,http://zurich-r-user-group.github.io/hackathon.html,Zurich,Switzerland,ZurichRUsers

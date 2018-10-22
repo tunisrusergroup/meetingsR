@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __355__ R user groups and events. 
+twitter names are missing. There are currently __356__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -107,6 +107,7 @@ The format for listing an R event is
 
  * November 7: [EARL Seattle](https://earlconf.com/boston). Seattle, USA. [\@earlconf](https://twitter.com/earlconf)
  * November 9: [EARL Houston](https://earlconf.com/boston). Houston, USA. [\@earlconf](https://twitter.com/earlconf)
+ * November 8-9: [DC R Conference](https://www.rstats.ai/). Washington DC, USA. [\@rstatsdc](https://twitter.com/rstatsdc)
  * November 13: [EARL Boston](https://earlconf.com/boston). Boston, USA. [\@earlconf](https://twitter.com/earlconf)
 
 ### December

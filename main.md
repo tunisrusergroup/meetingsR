@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __356__ R user groups and events. 
+twitter names are missing. There are currently __357__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -623,6 +623,10 @@ knit: "bookdown::preview_chapter"
 #### Kansas {-}
 
   * Kansas City: [Kansas City R Users Group](http://groupspaces.com/KCRUsersGroup/)
+  
+#### Kentucky {-}
+
+  * Louisville: [Louisville R Users Group](https://www.facebook.com/groups/158421014607116/?ref=br_rs)
   
 #### Louisiana {-}
 

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __358__ R user groups and events. 
+twitter names are missing. There are currently __359__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -925,6 +925,7 @@ gender diversity in the R community.
   * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/)
   * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/R-Ladies-Orlando/)
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
+  * Chicago, IL: [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/); [\@RLadiesChicago](https://twitter.com/RLadiesChicago)
   * Louisville, KY: [R-Ladies Louisville](https://www.meetup.com/rladies-louisville/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
   * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/)

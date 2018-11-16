@@ -25,6 +25,7 @@ year,month,date,name,link,city,country,twitter
 2018,November,November 13,EARL Boston,https://earlconf.com/boston,Boston,USA,earlconf
 2018,December,December 6-7,European Bioconductor Meeting 2018,https://bioconductor.github.io/EuroBioc2018/,Munich,Germany,NA
 2018,December,December 8,SatRDays DC,https://dc2018.satrdays.org/,Washington,USA,NA
+2018,December,December 15,SatRday Santiago,https://santiago2018.satrdays.org,Santiago,Chile,NA
 2017,January,January 11-14,rstudio::conf,https://www.rstudio.com/conference/,Kissmmee,USA,NA
 2017,February,February 16-18,satRday,http://satrdays.org/capetown2017/,Cape Town,South Africa,satRdays_org
 2017,March,March 4,#ODDZurich Hackathon,http://zurich-r-user-group.github.io/hackathon.html,Zurich,Switzerland,ZurichRUsers

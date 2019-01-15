@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __362__ R user groups and events. 
+twitter names are missing. There are currently __347__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -52,15 +52,32 @@ The format for listing an R event is
 ### January
 
   * January 15-18: [rstudio::conf](https://www.rstudio.com/conference/). Austin, USA.
-  * January 24-26: [ConectaR 2019](http://www.conectar2019.ucr.ac.cr/). San José, Costa Rica.
+  * January 24-26: [ConectaR 2019](http://www.conectar2019.ucr.ac.cr/). San Jose, Costa Rica.
   
 ### February
 
   * February 23: [satRdays Paris](http://paris2019.satrdays.org). Paris, France.
+  
+### March
+
+  * March 9-10: [Chicago R Unconference](https://chirunconf.github.io/). Chicago IL, USA.
+  
+### April
+
+  * April 14-16: [The Uncoast Unconference](https://uncoast-unconference.netlify.com/). Des Moines IA, USA.
+
+### May
+
+  * May 18: [1 Year Chapter Meetup Belo Horizonte](http://rladiesbh.com.br/). Belo Horizonte, Brazil.
+  * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
 
 ### July
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
+
+### September
+
+  * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
 
 ## 2018 {-}
 
@@ -83,17 +100,17 @@ The format for listing an R event is
 ### June
 
  *  June 1-2: [R/Finance 2018](http://www.rinfinance.com). Chicago, USA.
- *  June 2: [CascadiaRConf](https://www.cascadiarconf.com). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
+ *  June 2: [CascadiaRConf](https://cascadiarconf.com/). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
 
 ### July
 
- * July 2-5: [WhyR? 2018](http://whyr2018.pl/). Wroclaw, Poland.
+ * July 2-5: WhyR? 2018. Wroclaw, Poland.
  * July 4-6: [7eme rencontres R](https://r2018-rennes.sciencesconf.org). Rennes, France. [\@rencontres_R](https://twitter.com/rencontres_R)
  * July 10-13: [useR! 2018](https://user2018.r-project.org/). Brisbane, Australia.
 
 ### August
 
- * August 15-16: [R/Pharma](http://rinpharma.com/). Cambridge, Massachusetts, USA.
+ * August 15-16: [R/Pharma](http://rinpharma.com/). Massachusetts, USA.
 
 ### September
 
@@ -128,7 +145,7 @@ The format for listing an R event is
 
 ### February
 
-  * February 16-18: [satRday](http://satrdays.org/capetown2017/). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
+  * February 16-18: [satRday](https://capetown2017.satrdays.org//). Cape Town, South Africa. [\@satRdays_org](https://twitter.com/satRdays_org)
   
 ### March
 
@@ -143,13 +160,13 @@ The format for listing an R event is
 
   * May 19-20: [R/Finance 2017](http://www.rinfinance.com). Chicago, USA. ([Recordings here](https://channel9.msdn.com/Events/RFinance/RFinance-2017))
   * May 25-26: [R à Québec 2017](http://raquebec.ulaval.ca/2017/). Québec, Canada.
-  * May 25-26: [ROpenSci Unconference](https://ropensci.org/community/events.html). Los Angeles, USA.
-  * May 28-Jun 2: [WOMBAT MeDaScIn 2017](http://www.datasciencemelbourne.com/medascin2017/). Melbourne, Australia.
+  * May 25-26: ROpenSci Unconference. Los Angeles, USA.
+  * May 28-Jun 2: WOMBAT MeDaScIn 2017. Melbourne, Australia.
   
 ### June
 
   * June 3: [CascadiaRconf](https://cascadiarconf.com/2017). Portland, USA. [\@cascadiarconf](https://twitter.com/cascadiarconf)
-  * June 5-7: [EARL](http://www.mango-solutions.com/wp/2017/01/earl-2017-abstract-submissions-open-for-san-francisco-and-london-san-francisco-dates-and-venue-announced/). San Francisco, USA.
+  * June 5-7: EARL. San Francisco, USA.
    * June 8: [R in Insurance](https://rininsurance17.sciencesconf.org/). Paris, France. 
    
 ### July
@@ -165,9 +182,9 @@ The format for listing an R event is
 ### November
   
   * November 1-3: [EARL Boston 2017](https://earlconf.com/boston/). Boston, USA.
-  * November 6-7: [New Challenges for Statistical Software - The Use of R in Official Statistics](http://www.r-project.ro/conference2017/). Bucharest, Romania.
+  * November 6-7: New Challenges for Statistical Software - The Use of R in Official Statistics. Bucharest, Romania.
   * November 8-9: [R Kenntnis-Tage 2017](http://www.eoda.de/de/R-Kenntnis-Tage.html). Kassel, Germany.
-  * November 16-17: [Bioconductor Asia](https://www.abacbs.org/conference-workshops#bioc2017-link). Adelaide, Australia.
+  * November 16-17: Bioconductor Asia. Adelaide, Australia.
 
 ### December
 
@@ -182,7 +199,7 @@ The format for listing an R event is
   * September: [The first satRday conference](http://budapest.satrdays.org). Budapest, Hungary.
   * October: [European R users meeting](http://erum.ue.poznan.pl/). Poznan, Poland.[\@erum2016](https://twitter.com/erum2016)
   * November: [EARL Boston 2016](https://earlconf.com/boston/). Boston, USA.
-  * December: [European Bioconductor Developers' Meeting](http://scicore.ch/events/eurobioc2016/). Basel, Switzerland.
+  * December: European Bioconductor Developers' Meeting. Basel, Switzerland.
 
 <!--chapter:end:01-events.Rmd-->
 
@@ -209,7 +226,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 ### China
 
-  * Chengdu: [Chengdu R User's Group](https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/)
   * Xiamen: [XMU-R](https://www.meetup.com/RGROUP/)
 
 ### Hong Kong
@@ -313,14 +329,12 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
-  *  Marseille: [R user group Aix-Marseille](https://www.meetup.com/R-user-group-Aix-Marseille/)
   *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
   *  Nancy: [Nancy Data Science](https://www.meetup.com/nancydatascience/)
   *  Nantes: [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
   *  Paris: [Semin-R](http://www.mnhn.fr/semin-r/)
   *  Paris: [State of the R](http://stateofther.github.io/)
   *  Paris: [R Addicts Paris](https://www.meetup.com/rparis/events/124508332/)
-  *  Paris: [R'n Blue](https://www.meetup.com/Rn-Blue/)
   *  Strasbourg: [StatsRbourg](https://www.meetup.com/StatsRbourg/)
   *  Toulouse: [R Toulouse](http://r-toulouse.netlify.com/), [\@RUG_Toulouse](https://twitter.com/RUG_Toulouse)
   *  Grenoble: [R in Grenoble](https://r-in-grenoble.github.io/)
@@ -341,7 +355,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   *  Münster: [MünsteR (R Users Group)](https://www.meetup.com/Munster-R-Users-Group)
   *  Nürnberg: [NürnbergR](https://www.xing.com/net/ruser-nuernberg/)
   *  Osnabrück: [Osnabrück R und Data Science](https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/)
-  *  Stuttgart: [R-Group Stuttgart](https://r-group-stuttgart.github.io/); [\@r_stuttgart ](https://twitter.com/r_stuttgart)
   *  Wiesbaden: [Wiesbaden R Users Group](https://www.meetup.com/Wiesbaden-R-Users-Group)
   
 ### Greece
@@ -361,7 +374,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### Italy
 
   * Milan: [MilanoR](http://www.milanor.net/)
-  * Napoli: [NapoliR User Group](https://www.meetup.com/Napoli-R-User-Group/)
   * Padua: [Italy-RUG Rante](https://groups.google.com/group/rante)
   * Torino: [Torino R net](http://torinor.net/)
 
@@ -398,9 +410,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 ### Russia
 
-  * Kazan: [R Kazan](https://www.meetup.com/R-Kazan/)
   * Moscow: [rMoscow](https://www.meetup.com/rMoscow/)
-  * PERM: [R Group](http://r-group.mifit.ru/?lang=enPeRm)
   * St. Petersburg: [St. Petersburg R User Group](https://www.meetup.com/St-Petersburg-R-User-Group/)
 
 ### Serbia
@@ -437,8 +447,6 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 #### England {-}
 
   * Birmingham: [Birmingham R User Group](https://www.meetup.com/BirminghamR/); [\@BirminghamR](https://twitter.com/birminghamr)
-  * Canterbury: [CanterburyR](https://www.meetup.com/Canterbury-R-Users-Group)
-  * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
   * London: [LondonR](https://www.meetup.com/LondonR/)
@@ -484,10 +492,6 @@ knit: "bookdown::preview_chapter"
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
   * Cairo: [Cairo R Users Group](https://www.meetup.com/Cairo-R-Users-Group/)
 
-### Ghana
-
-  * Accra: [Accra R Users Group](https://www.meetup.com/Accra-R-Users-Group/)
-
 ### Israel
 
   * Tel Aviv: [Israel R User Group](https://groups.google.com/group/israel-r-user-group)
@@ -502,12 +506,7 @@ knit: "bookdown::preview_chapter"
 
 ### Nigeria
 
-  * Lagos: [Lagos R Users Group](https://www.meetup.com/Lagos-R-Users-Group/)
   * Offa: [Offa R Users Group](https://www.meetup.com/FEDPOFA-R-Users-Group/)
-
-### Qatar
-
-  * Doha: [Doha R User Group](https://www.meetup.com/doha-rug)
 
 ### Saudi Arabia
 
@@ -520,7 +519,6 @@ knit: "bookdown::preview_chapter"
 ### South Africa
 
   * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/); [\@CapeRUser](https://twitter.com/CapeRUser)
-  * Durban: [Durban R Users Group](https://www.meetup.com/Durban-R-Users-Group/)
   * Johannesburg: [Jo'burg R Users Group](https://www.meetup.com/Joburg-R-Users-Group)
 
 ### Tanzania
@@ -551,7 +549,6 @@ knit: "bookdown::preview_chapter"
 
 ### Mexico
 
-  *  Guadalajara: [Guadalajara R Users group Meetup](https://www.meetup.com/Guadalajara-R-Users-Group-Meetup/)
   *  Mexico City: [Mexico City Business Analytics Users Group](https://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/)
   *  Mexico City: [The Mexico City R Users Group](https://www.meetup.com/The-Mexico-City-R-Users-Group/)
   *  Tecate: [ecate BC Mexico R Users Group Meetup](https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/)
@@ -566,10 +563,6 @@ knit: "bookdown::preview_chapter"
 
   * Phoenix: [Phoenix R Programmers](http://rphx.wordpress.com/)
 
-#### Arkansas {-}
-
-  * Little Rock: [Little Rock R User Group](https://www.meetup.com/Central-Arkansas-R-User-Group/)
-
 #### California {-}
 
   * Berkeley: [The Berkeley R Language Beginner Study Group](https://www.meetup.com/r-enthusiasts/)
@@ -583,8 +576,7 @@ knit: "bookdown::preview_chapter"
   * San Francisco / Bay Area: [BARUG](https://www.meetup.com/R-Users/)
 
 * Santa Barbara: [Santa Barbara R Users](https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/)
-  * Whittier: [R Project for Statistical Computing Meetup](https://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/)
-  
+
 #### Colorado {-}
 
   * Denver: [Denver R User Group](https://www.meetup.com/DenverRUG/)
@@ -667,7 +659,6 @@ knit: "bookdown::preview_chapter"
 #### Nevada {-}
 
   * Las Vegas: [Las Vegas R Users Group](https://www.meetup.com/Las-Vegas-R-Users-Group/)
-  * Reno: [Reno R Users](https://www.meetup.com/Reno-R-Users/)
 
 #### New Jersey {-}
 
@@ -681,8 +672,7 @@ knit: "bookdown::preview_chapter"
   * New York: [New York Open Statistical Programming Meetup](https://www.meetup.com/nyhackr/) (The New York R Meetup)
   * New York: [New York R User Group](https://www.meetup.com/New-York-R-Users-Group/)
   * New York: [Columbia R Statistical Programming Group](https://groups.google.com/group/columbiaR)
-  * New York, Rochester: [Rochester R Users Group Meetup](https://www.meetup.com/Rochester-R-Users-Group-Meetup/)
-  
+
 #### North Carolina {-}
 
   * Charlotte: [Charlotte R Users Group](https://www.meetup.com/Charlotte-R-Users-Group/)
@@ -706,14 +696,9 @@ knit: "bookdown::preview_chapter"
   * Pittsburgh: [Pittsburgh useR Group](https://www.meetup.com/Pittsburgh-useR-Group/)
   * University Park: [Penn State R User's Group](https://www.facebook.com/groups/WeRPennStateRUsersGroup)
 
-#### Rhode Island {-}
-
-  * Providence: [Narragansette Bay Area R Users](https://www.meetup.com/Narragansett-Bay-Area-R-Users/)
-
 #### Tennessee {-}
 
   * Kingsport: [Tri-Cities R User Group](https://www.facebook.com/groups/658774270929644/)
-  * Knoxville: [KRUG](https://www.meetup.com/Knoxville-R-Users-Group)
   * Memphis, TN: [Memphis R Users Group](https://www.meetup.com/Memphis-R-Users-Group/)
   * Nashville, TN: [Nashville R user Group](https://www.meetup.com/Nashville-R-Users-Group/)
 
@@ -733,7 +718,6 @@ knit: "bookdown::preview_chapter"
 #### Virginia {-} 
 
   * Charlottesville: [UVa R Users Group](https://www.meetup.com/UVa-R-Users-Group/)
-  * Norfolk:[757 R Users Group](https://www.meetup.com/757-R-Users-Group/)
 
 #### Wisconsin {-}
 
@@ -786,8 +770,8 @@ knit: "bookdown::preview_chapter"
 
 ### Argentina
 
-  * Argentina Buenos Ares: [Grupo de Usarios de R Argentina](http://ar.i314.com.ar/)
-
+  * Ciudad de Buenos Aires,[R en Buenos Aires](http://renbaires.github.io/); [\@renbaires](https://twitter.com/renbaires)
+  
 ### Brazil
 
   * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](https://www.meetup.com/Brasilia-UseR-Meetup/)
@@ -823,10 +807,6 @@ knit: "bookdown::preview_chapter"
 
   * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
-### Venezuela
-
-  * Caracas: [R-usersVEN](https://www.meetup.com/R-usersVEN)
-
 
 <!--chapter:end:02_useR_groups_south_america.Rmd-->
 
@@ -861,6 +841,7 @@ gender diversity in the R community.
 ### Brazil
 
  * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
+ * Belo-Horizonte: [R-Ladies Belo-Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
 
 ### France
 
@@ -882,6 +863,9 @@ gender diversity in the R community.
 ### Nepal
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
+ 
+### Norway
+ * Oslo: [RLadies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadies_Oslo](https://twitter.com/RLadies_Oslo)
   
 ### Peru
 

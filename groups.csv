@@ -1,16 +1,18 @@
-page,country,city,group_name,link,twitter
+# Automatically generated file. Edit the .Rmd file instead.
 R-Ladies Groups,Argentina,Buenos Aires,R-Ladies Buenos Aires,https://www.meetup.com/rladies-buenos-aires/,NA
 R-Ladies Groups,Argentina,Santa Rosa,R-Ladies Santa Rosa,https://www.meetup.com/rladies-santa-rosa/,NA
 R-Ladies Groups,Australia,Adelaide,R-Ladies Adelaide,https://www.meetup.com/rladies-adelaide/,NA
 R-Ladies Groups,Australia,Melbourne,R-Ladies Melbourne,https://www.meetup.com/R-Ladies-Melbourne/,RLadiesAU
 R-Ladies Groups,Belgium,Brussels,R-Ladies Brussels,https://www.meetup.com/R-Ladies-Brussels/members/,NA
 R-Ladies Groups,Brazil,Rio-de-Janeiro,R-Ladies Rio-de-Janeiro,https://www.meetup.com/R-Ladies-Rio-de-Janeiro,RLadiesRio
+R-Ladies Groups,Brazil,Belo-Horizonte,R-Ladies Belo-Horizonte,https://www.meetup.com/pt-BR/rladies-belo-horizonte/,RLadiesBH
 R-Ladies Groups,France,Paris,Paris,https://www.meetup.com/rladies-paris/,NA
 R-Ladies Groups,Germany,Berlin,R-Ladies Berlin,https://www.meetup.com/rladies-berlin/,RLadiesBerlin
 R-Ladies Groups,Germany,Munich,R-Ladies Munich,https://www.meetup.com/rladies-munich,NA
 R-Ladies Groups,Georgia,Tbilisi,R-Ladies Tbilisi,https://www.meetup.com/R-Ladies-Tbilisi/,NA
 R-Ladies Groups,Ireland,Dublin,R-Ladies Dublin,https://www.meetup.com/R-Ladies-Dublin/,NA
 R-Ladies Groups,Nepal,Kathmandu,R-Ladies Kathmandu,https://www.meetup.com/rladies-kathmandu/,RLadiesKtm
+R-Ladies Groups,Norway,Oslo,RLadies Oslo,https://www.meetup.com/en-AU/rladies-oslo/,RLadies_Oslo
 R-Ladies Groups,Peru,Lima,R-Ladies Lima,https://twitter.com/RLadiesLima,NA
 R-Ladies Groups,Poland,Warsaw,Spotkania Entuzjastów R,https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/,NA
 R-Ladies Groups,Portugal,Lisbon,R-Ladies Lisboa,https://www.meetup.com/R-Ladies-Lisboa/,NA
@@ -43,7 +45,6 @@ R-Ladies Groups,United States of America,"Austin, TX",R-Ladies Austin,https://me
 R-Ladies Groups,United States of America,"Portland, OR",R-Ladies PDX,https://www.meetup.com/R-Ladies-PDX/,RLadiesPDX
 R-Ladies Groups,United States of America,"San Diego, CA",R-Ladies San Diego,https://www.meetup.com/rladies-san-diego/,RLadiesSanDiego
 R-Ladies Groups,Uruguay,Montevideo,R-Ladies Montevideo,https://www.meetup.com/rladies-montevideo/,NA
-Asia,China,Chengdu,Chengdu R User's Group,https://www.meetup.com/Chengdu-R-Users-Group/events/218924116/,NA
 Asia,China,Xiamen,XMU-R,https://www.meetup.com/RGROUP/,NA
 Asia,Hong Kong,Hong Kong,Hong Kong R User Group,https://www.facebook.com/groups/hkrusers/,NA
 Asia,India,Bangalore,Bengaluru R UseR Group (BRUG),https://www.meetup.com/BengaluRu-use-R-gRoup/,NA
@@ -73,14 +74,12 @@ Europe,Finland,Helsinki,R User Group Finland,https://www.meetup.com/R-User-Group
 Europe,France,Brest,DataScience Brest,https://www.meetup.com/fr-FR/Data-Science-Brest/,NA
 Europe,France,Lyon,RLyon,https://www.meetup.com/R-Lyon/,NA
 Europe,France,Jouy-en-Josas,R4Ciam,http://ciam.inra.fr/r4ciam/,NA
-Europe,France,Marseille,R user group Aix-Marseille,https://www.meetup.com/R-user-group-Aix-Marseille/,NA
 Europe,France,Montpellier,Groupe des utilisateurs du logiciel R,http://forums.cirad.fr/logiciel-R/,NA
 Europe,France,Nancy,Nancy Data Science,https://www.meetup.com/nancydatascience/,NA
 Europe,France,Nantes,Meetup R Nantes,https://www.meetup.com/fr-FR/Meetup-R-Nantes/,NA
 Europe,France,Paris,Semin-R,http://www.mnhn.fr/semin-r/,NA
 Europe,France,Paris,State of the R,http://stateofther.github.io/,NA
 Europe,France,Paris,R Addicts Paris,https://www.meetup.com/rparis/events/124508332/,NA
-Europe,France,Paris,R'n Blue,https://www.meetup.com/Rn-Blue/,NA
 Europe,France,Strasbourg,StatsRbourg,https://www.meetup.com/StatsRbourg/,NA
 Europe,France,Toulouse,R Toulouse,http://r-toulouse.netlify.com/,RUG_Toulouse
 Europe,France,Grenoble,R in Grenoble,https://r-in-grenoble.github.io/,NA
@@ -96,7 +95,6 @@ Europe,Germany ,Munich,Applied R Munich,https://www.meetup.com/Applied-R-Munich,
 Europe,Germany ,Münster,MünsteR (R Users Group),https://www.meetup.com/Munster-R-Users-Group,NA
 Europe,Germany ,Nürnberg,NürnbergR,https://www.xing.com/net/ruser-nuernberg/,NA
 Europe,Germany ,Osnabrück,Osnabrück R und Data Science,https://www.meetup.com/de-DE/Osnabrueck-R-und-Data-Science/,NA
-Europe,Germany ,Stuttgart,R-Group Stuttgart,https://r-group-stuttgart.github.io/,r_stuttgart 
 Europe,Germany ,Wiesbaden,Wiesbaden R Users Group,https://www.meetup.com/Wiesbaden-R-Users-Group,NA
 Europe,Greece,Athens,AthensR,https://www.meetup.com/AthensR/,NA
 Europe,Greece,Pátrai,Patra's R Users Group,https://www.meetup.com/Patras-R-Users-Group,NA
@@ -104,7 +102,6 @@ Europe,Hungary,Budapest,BURN,https://www.meetup.com/Budapest-Users-of-R-Network,
 Europe,Ireland,Cork,Cork R-Uses Group,https://www.meetup.com/Cork-Ireland-R-Users-Group/,NA
 Europe,Ireland,Dublin,Dublin-R,https://www.meetup.com/DublinR/,NA
 Europe,Italy,Milan,MilanoR,http://www.milanor.net/,NA
-Europe,Italy,Napoli,NapoliR User Group,https://www.meetup.com/Napoli-R-User-Group/,NA
 Europe,Italy,Padua,Italy-RUG Rante,https://groups.google.com/group/rante,NA
 Europe,Italy,Torino,Torino R net,http://torinor.net/,NA
 Europe,Luxembourg,Luxembourg,LuxR,https://www.meetup.com/LuxRgroup/,NA
@@ -118,7 +115,6 @@ Europe,Poland,TriCity,Trójmiejska Grupa Entuzjastów R,https://www.meetup.com/T
 Europe,Poland,Wrocław,STWUR - Wroclaw R Users Group,https://www.meetup.com/Wroclaw-R-Users-Group/,NA
 Europe,Poland,Kraków,entuzjastów R krakowska alternatywa,https://www.meetup.com/erkakrakow/,NA
 Europe,Romania,Bucharest,R-omania Team,http://www.r-project.ro/our_team.html,NA
-Europe,Russia,Kazan,R Kazan,https://www.meetup.com/R-Kazan/,NA
 Europe,Russia,Moscow,rMoscow,https://www.meetup.com/rMoscow/,NA
 Europe,Serbia,Belgrade,BelgradeR,https://www.meetup.com/BelgradeR/,NA
 Europe,Slovenia,Ljubljana,Rcoholics,https://groups.google.com/group/rkoholikiAnonymous,NA
@@ -132,8 +128,6 @@ Europe,Switzerland,Basel,BaselR,http://www.baselr.org/,NA
 Europe,Switzerland,Geneva,Geneve R User Group,https://www.meetup.com/Geneve-R-User-Group/,GenevaRUsers
 Europe,Switzerland,Zurich,Zurich R,https://www.meetup.com/Zurich-R-User-Group/,NA
 Europe,United Kingdom,Birmingham,Birmingham R User Group,https://www.meetup.com/BirminghamR/,BirminghamR
-Europe,United Kingdom,Canterbury,CanterburyR,https://www.meetup.com/Canterbury-R-Users-Group,NA
-Europe,United Kingdom,Cambridge,CambR,http://www.cambr.org.uk/,NA
 Europe,United Kingdom,Coventry,Warwick R User Group,http://warwick.ac.uk/wrug,WarwickRUG
 Europe,United Kingdom,Exeter,Exeter,https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/,NA
 Europe,United Kingdom,London,LondonR,https://www.meetup.com/LondonR/,NA
@@ -150,17 +144,13 @@ Europe,United Kingdom,Swansea,Swansea,https://sites.google.com/site/swanseaunive
 Europe,Turkey,Ankara,Turkish Community,https://www.meetup.com/Turkish-Community-of-R/,NA
 Middle East/ Africa,Egypt,Cairo,Cairo Bioinformatics Group,https://www.meetup.com/Cairo-Bioinformatics-Group/,NA
 Middle East/ Africa,Egypt,Cairo,Cairo R Users Group,https://www.meetup.com/Cairo-R-Users-Group/,NA
-Middle East/ Africa,Ghana,Accra,Accra R Users Group,https://www.meetup.com/Accra-R-Users-Group/,NA
 Middle East/ Africa,Israel,Tel Aviv,Israel R User Group,https://groups.google.com/group/israel-r-user-group,NA
 Middle East/ Africa,Kenya,Nairobi,R Users Group Kenya RUGK,https://www.meetup.com/Nairobi-R-Users-Group/,NA
 Middle East/ Africa,Morocco,Casablanca,Casablanca R Users Group,https://www.meetup.com/Casablanca-R-Users-Group/,NA
-Middle East/ Africa,Nigeria,Lagos,Lagos R Users Group,https://www.meetup.com/Lagos-R-Users-Group/,NA
 Middle East/ Africa,Nigeria,Offa,Offa R Users Group,https://www.meetup.com/FEDPOFA-R-Users-Group/,NA
-Middle East/ Africa,Qatar,Doha,Doha R User Group,https://www.meetup.com/doha-rug,NA
 Middle East/ Africa,Saudi Arabia,Riyadh,Riyadh,https://riyadhusergroup.wordpress.com/,NA
 Middle East/ Africa,Senegal,Dakar,DRUG,https://www.meetup.com/DakaR-R-User-Group/,NA
 Middle East/ Africa,South Africa,Cape Town,Cape R Users Group,https://caperuser.wordpress.com/,CapeRUser
-Middle East/ Africa,South Africa,Durban,Durban R Users Group,https://www.meetup.com/Durban-R-Users-Group/,NA
 Middle East/ Africa,South Africa,Johannesburg,Jo'burg R Users Group,https://www.meetup.com/Joburg-R-Users-Group,NA
 Middle East/ Africa,Tanzania,Dar es Salaam,Dar es Salaam R Users Group,https://www.meetup.com/DarEs-Salaam-R-users/,NA
 Middle East/ Africa,Uganda,Kampala,Kampala R Users Group,https://www.meetup.com/Kampala-R-Users-Group/,NA
@@ -171,13 +161,11 @@ North America,Canada ,Ottawa,Ottawa Gatineau R Users Group,https://stat.ethz.ch/
 North America,Canada ,Québec,Plein-R,http://www.coactivate.org/projects/plein-r/project-home,NA
 North America,Canada ,Toronto,Greater Toronto Area (GTA) R User's Group,https://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group,NA
 North America,Canada ,Vancouver,Vancouver R Users Group,https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/,NA
-North America,Mexico,Guadalajara,Guadalajara R Users group Meetup,https://www.meetup.com/Guadalajara-R-Users-Group-Meetup/,NA
 North America,Mexico,Mexico City,Mexico City Business Analytics Users Group,https://www.meetup.com/Mexico-City-Business-Analytics-Users/events/219135766/,NA
 North America,Mexico,Mexico City,The Mexico City R Users Group,https://www.meetup.com/The-Mexico-City-R-Users-Group/,NA
 North America,Mexico,Tecate,ecate BC Mexico R Users Group Meetup,https://www.meetup.com/Tecate-BC-Mexico-R-Users-Group-Meetup/,NA
 North America,United States of America,Birmingham,BiRmingham R Meetup,https://www.meetup.com/Bi-R-mingham-R-Meetup/,NA
 North America,United States of America,Phoenix,Phoenix R Programmers,http://rphx.wordpress.com/,NA
-North America,United States of America,Little Rock,Little Rock R User Group,https://www.meetup.com/Central-Arkansas-R-User-Group/,NA
 North America,United States of America,Berkeley,The Berkeley R Language Beginner Study Group,https://www.meetup.com/r-enthusiasts/,NA
 North America,United States of America,Chico,Chico R Users Group,https://www.meetup.com/Chico-R-Users-Group/,NA
 North America,United States of America,Davis,Davis R Users' Group,http://www.noamross.net/davis-r-users-group.html,NA
@@ -186,7 +174,6 @@ North America,United States of America,Orange County,OCRUG,https://www.meetup.co
 North America,United States of America,San Diego,San Diego R Users Group,https://www.meetup.com/San-Diego-R-users-group,NA
 North America,United States of America,San Francisco / Bay Area,BARUG,https://www.meetup.com/R-Users/,NA
 North America,United States of America,Santa Barbara,Santa Barbara R Users,https://www.meetup.com/Santa-Barbara-R-Users-Group/events/107866752/,NA
-North America,United States of America,Whittier,R Project for Statistical Computing Meetup,https://www.meetup.com/R-Project-for-Statistical-Computing-Meetup/,NA
 North America,United States of America,Denver,Denver R User Group,https://www.meetup.com/DenverRUG/,NA
 North America,United States of America,New Haven,Connecticut R Users Group,https://www.meetup.com/Conneticut-R-Users-Group/,NA
 North America,United States of America,Washington,Statistical Programming DC,https://www.meetup.com/stats-prog-dc/,NA
@@ -211,14 +198,12 @@ North America,United States of America,Saint Louis,Saint Louis R User Group,http
 North America,United States of America,Bozeman,Bozeman Area R useR Group,https://www.meetup.com/bozeman-user-group-r-programming-language/,NA
 North America,United States of America,Omaha,Omaha R Users,https://omahar.org/,NA
 North America,United States of America,Las Vegas,Las Vegas R Users Group,https://www.meetup.com/Las-Vegas-R-Users-Group/,NA
-North America,United States of America,Reno,Reno R Users,https://www.meetup.com/Reno-R-Users/,NA
 North America,United States of America,Newark,NewJerseyR,http://newjerseyr.org/,NA
 North America,United States of America,Trenton,TRU,https://www.meetup.com/TRUgroup/,NA
 North America,United States of America,Albany,Albany R Users Group,https://www.meetup.com/Albany-R-Users-Group/,NA
 North America,United States of America,New York,New York Open Statistical Programming Meetup,https://www.meetup.com/nyhackr/,NA
 North America,United States of America,New York,New York R User Group,https://www.meetup.com/New-York-R-Users-Group/,NA
 North America,United States of America,New York,Columbia R Statistical Programming Group,https://groups.google.com/group/columbiaR,NA
-North America,United States of America,"New York, Rochester",Rochester R Users Group Meetup,https://www.meetup.com/Rochester-R-Users-Group-Meetup/,NA
 North America,United States of America,Charlotte,Charlotte R Users Group,https://www.meetup.com/Charlotte-R-Users-Group/,NA
 North America,United States of America,Raleigh-Durham,Raleigh-Durham-Chapel Hill R Users Group,https://www.meetup.com/Triangle-useR/,NA
 North America,United States of America,Wilmington,Cape Fear R Users Group,https://www.meetup.com/Cape-Fear-R-Users-Group/,NA
@@ -230,9 +215,7 @@ North America,United States of America,Portland,Portland R User Group,https://ww
 North America,United States of America,Eugene,Eugene R User Group,https://www.meetup.com/meetup-group-cwPiAlnB,EugeneRUsers
 North America,United States of America,Pittsburgh,Pittsburgh useR Group,https://www.meetup.com/Pittsburgh-useR-Group/,NA
 North America,United States of America,University Park,Penn State R User's Group,https://www.facebook.com/groups/WeRPennStateRUsersGroup,NA
-North America,United States of America,Providence,Narragansette Bay Area R Users,https://www.meetup.com/Narragansett-Bay-Area-R-Users/,NA
 North America,United States of America,Kingsport,Tri-Cities R User Group,https://www.facebook.com/groups/658774270929644/,NA
-North America,United States of America,Knoxville,KRUG,https://www.meetup.com/Knoxville-R-Users-Group,NA
 North America,United States of America,"Memphis, TN",Memphis R Users Group,https://www.meetup.com/Memphis-R-Users-Group/,NA
 North America,United States of America,"Nashville, TN",Nashville R user Group,https://www.meetup.com/Nashville-R-Users-Group/,NA
 North America,United States of America,Austin,Austin R User Group,https://www.meetup.com/Austin-R-User-Group/,NA
@@ -258,7 +241,6 @@ Oceania,Australia,Perth,WARG,https://www.meetup.com/Western-Australia-R-Group-WA
 Oceania,Australia,Sydney,SURF,https://www.meetup.com/R-Users-Sydney/,NA
 Oceania,New Zealand,Auckland,AKLRUG,https://www.meetup.com/Auckland-R-Users-Group-AKLRUG,NA
 Oceania,New Zealand,Wellington,WRUG,https://www.meetup.com/Wellington-R-Users-Group-WRUG,NA
-South America,Argentina,Argentina Buenos Ares,Grupo de Usarios de R Argentina,http://ar.i314.com.ar/,NA
 South America,Brazil,Campinas,Campinas R Users Meetup,https://www.meetup.com/Campinas-R-Users-Meetup/,NA
 South America,Brazil,Porto Alegre,RStat,https://www.meetup.com/UseRS_/,NA
 South America,Brazil,São Paulo,São Paulo R Users Group,https://www.meetup.com/useR-SP/,NA
@@ -271,4 +253,3 @@ South America,Costa Rica,Heredia,Heredia R Users Group meetup,https://www.meetup
 South America,Ecuador   ,Quito,R Users Group - Ecuador,http://www.rusersgroup.com/,rusersgroup
 South America,Nicaragua,Managua,Usuarios R Nicaragua,https://www.facebook.com/groups/usuariosrnicaragua/,NA
 South America,Panama,Panamá,Panama R User's Group,https://www.meetup.com/Panama-R-Users-Group/,NA
-South America,Venezuela,Caracas,R-usersVEN,https://www.meetup.com/R-usersVEN,NA

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __349__ R user groups and events. 
+twitter names are missing. There are currently __351__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -70,8 +70,13 @@ The format for listing an R event is
 
 ### May
 
+  * May 9-11: [New York R Conference](https://www.rstats.nyc/). New York NY, USA.
   * May 18: [1 Year Chapter Meetup Belo Horizonte](http://rladiesbh.com.br/). Belo Horizonte, Brazil.
   * May 20-21: [The Use of R in Official Statistics](http://r-project.ro/conference2019.html). Bucharest, Romania.
+  
+### June
+
+  * June 8: [Cascadia R Conference](https://cascadiarconf.com/). Redmond WA, USA.
 
 ### July
 

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __355__ R user groups and events. 
+twitter names are missing. There are currently __356__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -648,6 +648,7 @@ knit: "bookdown::preview_chapter"
 
   * Ann Arbor: [Ann Arbor R User Group](https://www.meetup.com/Ann-Arbor-R-User-Group/)
   * Detroit: [Detroit useR Group](https://www.meetup.com/Detroit-useR-Group-R-Programming-Language/)
+  * Grand Rapids: [West Michigan R Users Group](https://westmichiganrusergroup.github.io/)
   * Lansing: [Lansing Area R Users Group](https://www.meetup.com/Lansing-Area-R-Users-Group/)
 
 #### Minnesota {-}

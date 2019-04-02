@@ -274,14 +274,14 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 #### Tōhoku {-}
 
-  * Sendai: [Events](https://sendair.connpass.com/); [\@tachyon7776](https://twitter.com/tachyon7776)
+  * Sendai: [Sendai.R](https://sendair.connpass.com/); [\@tachyon7776](https://twitter.com/tachyon7776)
 
 #### Kantō {-} 
 
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
   * Tokyo: [Tokyo.R](https://tokyor.connpass.com/); [\@TokyoRCommunity](https://twitter.com/TokyoRCommunity)
   * Tsukuba: [Tsukuba.R](https://www.meetup.com/ja-JP/TsukubaR/); [\@tsukubar](https://twitter.com/tsukubar)
-  * Yokohama: [Yokohama.Rhttps://yokohamar.github.io/yokohama.r/)
+  * Yokohama: [Yokohama.R](https://yokohamar.github.io/yokohama.r/)
 
 #### Chūbu {-}
 
@@ -301,7 +301,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
 #### Kyushu {-} 
 
-  * Fukuoka [Fukuoka.R](https://fukuoka-r.connpass.com); [\@FukuokaR](https://twitter.com/hashtag/FukuokaR?src=hash)
+  * Fukuoka [Fukuoka.R](https://fukuoka-r.connpass.com); [\@doradora](https://twitter.com/hashtag/doradora)
   * Okinawa: [Okinawa.R](http://www.okadajp.org/RWiki/?%E6%B2%96%E7%B8%84R%E5%90%8C%E5%A5%BD%E4%BC%9A)
 
   

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __360__ R user groups and events. 
+twitter names are missing. There are currently __372__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -258,19 +258,53 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
   * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
-  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/?scroll=true)
+  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)
   * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
   * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
 
 ### Japan
+  
+  * Japan: [Japan.R](http://japanr.net/); [\@gepuro](https://twitter.com/gepuro)
+
+#### Hokkaido {-} 
+
+  * Sapporo: [SappoRo.R](http://kokucheese.com/event/index/423714/)
+
+#### Tōhoku {-}
+
+  * Sendai: [Events](https://sendair.connpass.com/); [\@tachyon7776](https://twitter.com/tachyon7776)
+
+#### Kantō {-} 
 
   * Chiba: [Kashiwa.R](http://www14.atwiki.jp/kashiwar/)
-  * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
-  * Tokyo: [Tokyo.R](https://groups.google.com/group/r-study-tokyo)
+  * Tokyo: [Tokyo.R](https://tokyor.connpass.com/); [\@TokyoRCommunity](https://twitter.com/TokyoRCommunity)
   * Tsukuba: [Tsukuba.R](https://www.meetup.com/ja-JP/TsukubaR/); [\@tsukubar](https://twitter.com/tsukubar)
+  * Yokohama: [Yokohama.Rhttps://yokohamar.github.io/yokohama.r/)
 
+#### Chūbu {-}
+
+  * Nagoya: [Nagoya.R](https://atnd.org/events/78674)
+
+#### Kansai {-} 
+
+  * Kobe: [Kobe.R](http://kobexr.doorkeeper.jp/) 
+  * Osaka: [Osaka.R](https://sites.google.com/site/osakarwiki/)
+  * Shiga: [Shiga.R](http://atnd.org/events/5939)
+
+#### Chūgoku {-}
+
+  * Hiroshima: [HijiyamaR](https://atnd.org/events/81359)
+  * Hiroshima: [HiRosima.R](http://hiroshimar.connpass.com/)
+  * Yamaguchi: [Yamadai.R](https://atnd.org/events/37336)
+
+#### Kyushu {-} 
+
+  * Fukuoka [Fukuoka.R](https://fukuoka-r.connpass.com); [\@FukuokaR](https://twitter.com/hashtag/FukuokaR?src=hash)
+  * Okinawa: [Okinawa.R](http://www.okadajp.org/RWiki/?%E6%B2%96%E7%B8%84R%E5%90%8C%E5%A5%BD%E4%BC%9A)
+
+  
 ### Macau
 
   * Macau: [R-Research](http://groupspaces.com/R-research/)

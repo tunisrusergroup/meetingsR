@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __372__ R user groups and events. 
+twitter names are missing. There are currently __373__ R user groups and events. 
 To propose a change, just click the pencil icon in the top left hand corner.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -87,6 +87,7 @@ The format for listing an R event is
 ### June
 
   * June 8: [Cascadia R Conference](https://cascadiarconf.com/). Redmond WA, USA.
+  * June 15: [SatRday Berlin](https://berlin2019.satrdays.org/). Berlin, Germany.
 
 ### July
 

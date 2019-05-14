@@ -1,25 +1,25 @@
 # Automatically generated file. Edit the .Rmd file instead.
-2020,July,July XX-YY,useR! 2020,https://twitter.com/useR2020stl,St Louis,USA,NA
-2019,January,January 15-18,rstudio::conf,https://www.rstudio.com/conference/,Austin,USA,NA
-2019,January,January 24-26,ConectaR 2019,http://www.conectar2019.ucr.ac.cr/,San Jose,Costa Rica,NA
-2019,February,February 23,satRdays Paris,http://paris2019.satrdays.org,Paris,France,NA
-2019,March,March 9-10,Chicago R Unconference,https://chirunconf.github.io/,Chicago IL,USA,NA
-2019,April,April 6,satRday Los Angeles,https://losangeles2019.satrdays.org/,Los Angeles CA,USA,NA
-2019,April,April 6,satRday Johannesburg,https://joburg2019.satrdays.org/,Johannesburg,South Africa,NA
-2019,April,April 6,satRdays Newcastle,https://newcastle2019.satrdays.org/,Newcastle,UK,NA
-2019,April,April 14-16,The Uncoast Unconference,https://uncoast-unconference.netlify.com/,Des Moines IA,USA,NA
-2019,April,April 27,SatRday Chicago,https://chicago2019.satrdays.org/,Chicago IL,USA,NA
-2019,May,May 9-11,New York R Conference,https://www.rstats.nyc/,New York NY,USA,NA
-2019,May,May 18,1 Year Chapter Meetup Belo Horizonte,http://rladiesbh.com.br/,Belo Horizonte,Brazil,NA
-2019,May,May 18,SatRday Gdansk,https://gdansk2019.satrdays.org/,Gdansk,Poland,NA
-2019,May,May 20-21,The Use of R in Official Statistics,http://r-project.ro/conference2019.html,Bucharest,Romania,NA
-2019,June,June 8,Cascadia R Conference,https://cascadiarconf.com/,Redmond WA,USA,NA
-2019,June,June 15,SatRday Berlin,https://berlin2019.satrdays.org/,Berlin,Germany,NA
-2019,July,July 9-12,useR! 2019,http://www.user2019.fr/,Toulouse,France,NA
-2019,July,July 9-12,Riot 2019,http://riotworkshop.github.io/,Toulouse,France,NA
-2019,August,August 15-16,noRth 2019,https://rnorthconference.github.io/,Minneapolis MN,USA,NA
-2019,September,September 12-14,R/Medicine 2019,https://r-medicine.com/,Boston MA,USA,NA
-2019,September,September 25-27,LatinR 2019,http://latin-r.com/,Santiago,Chile,LatinR_Conf
+2020 `r edit_btn`,July,July XX-YY,useR! 2020,https://twitter.com/useR2020stl,St Louis,USA,NA
+2019 `r edit_btn`,January,January 15-18,rstudio::conf,https://www.rstudio.com/conference/,Austin,USA,NA
+2019 `r edit_btn`,January,January 24-26,ConectaR 2019,http://www.conectar2019.ucr.ac.cr/,San Jose,Costa Rica,NA
+2019 `r edit_btn`,February,February 23,satRdays Paris,http://paris2019.satrdays.org,Paris,France,NA
+2019 `r edit_btn`,March,March 9-10,Chicago R Unconference,https://chirunconf.github.io/,Chicago IL,USA,NA
+2019 `r edit_btn`,April,April 6,satRday Los Angeles,https://losangeles2019.satrdays.org/,Los Angeles CA,USA,NA
+2019 `r edit_btn`,April,April 6,satRday Johannesburg,https://joburg2019.satrdays.org/,Johannesburg,South Africa,NA
+2019 `r edit_btn`,April,April 6,satRdays Newcastle,https://newcastle2019.satrdays.org/,Newcastle,UK,NA
+2019 `r edit_btn`,April,April 14-16,The Uncoast Unconference,https://uncoast-unconference.netlify.com/,Des Moines IA,USA,NA
+2019 `r edit_btn`,April,April 27,SatRday Chicago,https://chicago2019.satrdays.org/,Chicago IL,USA,NA
+2019 `r edit_btn`,May,May 9-11,New York R Conference,https://www.rstats.nyc/,New York NY,USA,NA
+2019 `r edit_btn`,May,May 18,1 Year Chapter Meetup Belo Horizonte,http://rladiesbh.com.br/,Belo Horizonte,Brazil,NA
+2019 `r edit_btn`,May,May 18,SatRday Gdansk,https://gdansk2019.satrdays.org/,Gdansk,Poland,NA
+2019 `r edit_btn`,May,May 20-21,The Use of R in Official Statistics,http://r-project.ro/conference2019.html,Bucharest,Romania,NA
+2019 `r edit_btn`,June,June 8,Cascadia R Conference,https://cascadiarconf.com/,Redmond WA,USA,NA
+2019 `r edit_btn`,June,June 15,SatRday Berlin,https://berlin2019.satrdays.org/,Berlin,Germany,NA
+2019 `r edit_btn`,July,July 9-12,useR! 2019,http://www.user2019.fr/,Toulouse,France,NA
+2019 `r edit_btn`,July,July 9-12,Riot 2019,http://riotworkshop.github.io/,Toulouse,France,NA
+2019 `r edit_btn`,August,August 15-16,noRth 2019,https://rnorthconference.github.io/,Minneapolis MN,USA,NA
+2019 `r edit_btn`,September,September 12-14,R/Medicine 2019,https://r-medicine.com/,Boston MA,USA,NA
+2019 `r edit_btn`,September,September 25-27,LatinR 2019,http://latin-r.com/,Santiago,Chile,LatinR_Conf
 2018,January,"January 31, Feb 1-3",rstudio::conf,https://www.rstudio.com/conference/,San Diego,USA,NA
 2018,March,March 17th,SatRday,http://capetown2018.satrdays.org/,Cape Town,South Africa,NA
 2018,April,April 20-21,New York R Conference,http://rstats.nyc/,New York,USA,NA

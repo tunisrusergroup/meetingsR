@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __379__ R user groups and events. 
+twitter names are missing. There are currently __380__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -96,6 +96,7 @@ The format for listing an R event is
 
   * July 9-12: [useR! 2019](http://www.user2019.fr/). Toulouse, France. [\@UseR2019_Conf](https://twitter.com/UseR2019_Conf)
   * July 9-12: [Riot 2019](http://riotworkshop.github.io/). Toulouse, France.
+  * July 29-August2: [CDSB Workshop 2019](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XP6i_dNKi50). Cuernavaca, Mexico.
 
 ### August
 

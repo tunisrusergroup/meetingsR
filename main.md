@@ -53,7 +53,7 @@ The format for listing an R event is
 
 ### July
 
-  * July XX-YY: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020](https://twitter.com/useR2020stl). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
 
 ## 2019 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 

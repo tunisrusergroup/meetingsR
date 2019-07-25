@@ -1031,7 +1031,7 @@ gender diversity in the R community.
 
 # The data
 
-All files used to build this site can be found on the associated [GitHub](https://gitlab.com/jumpingrivers/meetingsR) 
+All files used to build this site can be found on the associated [GitHub](https://github.com/jumpingrivers/meetingsR) 
 page.
 
 Additionally, you can download a convenient CSV file of the data

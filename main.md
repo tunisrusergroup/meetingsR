@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __383__ R user groups and events. 
+twitter names are missing. There are currently __384__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -50,6 +50,10 @@ The format for listing an R event is
   * Date: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### January
+
+ * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
 
 ### May
 

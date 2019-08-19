@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __384__ R user groups and events. 
+twitter names are missing. There are currently __385__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -636,6 +636,7 @@ knit: "bookdown::preview_chapter"
   * Québec: [Plein-R](http://www.coactivate.org/projects/plein-r/project-home) (en Français)
   * Toronto: [Greater Toronto Area (GTA) R User's Group](https://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group)
   * Vancouver: [Vancouver R Users Group](https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/)
+  * Winnipeg: [Winnipeg R Users Group](https://www.meetup.com/Winnipeg-R-User-Group/)
 
 ### Mexico <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_north_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

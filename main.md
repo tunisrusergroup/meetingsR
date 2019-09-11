@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __387__ R user groups and events. 
+twitter names are missing. There are currently __388__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -602,6 +602,7 @@ knit: "bookdown::preview_chapter"
 ### Nigeria <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Offa: [Offa R Users Group](https://www.meetup.com/FEDPOFA-R-Users-Group/)
+  * Minna: [Niger Data Science and machine learning in R User Group](https://www.meetup.com/Minna-Data-Science-Meetup-Group/)
 
 ### Saudi Arabia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_middle_east_africa.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

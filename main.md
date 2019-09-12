@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __388__ R user groups and events. 
+twitter names are missing. There are currently __389__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -118,6 +118,7 @@ The format for listing an R event is
 
 ### December
 
+  * December 6-8: [Yes We CRAN](https://www.thinksisu.org/event/yeswecran/). Washington, D.C.
   * December 11-13 [rOpenSci OzUnconf](https://ozunconf19.ropensci.org/). Sydney, Australia.
   * December 26: [R\@IISA](https://r-iisa2019.rbind.io/). Mumbai, India.
 

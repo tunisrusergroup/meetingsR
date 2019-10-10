@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __389__ R user groups and events. 
+twitter names are missing. There are currently __390__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -551,6 +551,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 #### Scotland {-}
 
   * Edinburgh: [Edinbr](http://edinbr.org); [\@edinb_r](https://twitter.com/edinb_r)
+  * Glasgow: [RGlasgow](https://www.meetup.com/RGlasgow); [\@TeamRGlasgow](https://twitter.com/teamrglasgow)
   * Inverness: [InveRness](https://www.facebook.com/InveRness-R-User-Group-195100587522377/);[\@InvernessRug](https://twitter.com/InvernessRug)
 
 #### Wales {-}

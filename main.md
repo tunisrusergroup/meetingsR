@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __390__ R user groups and events. 
+twitter names are missing. There are currently __392__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -54,6 +54,10 @@ The format for listing an R event is
 ### January
 
  * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
+
+### April
+
+ * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
 
 ### May
 
@@ -115,6 +119,10 @@ The format for listing an R event is
   * September 12-14: [R/Medicine 2019](https://r-medicine.com/). Boston MA, USA.
   * September 25-27: [LatinR 2019](http://latin-r.com/). Santiago, Chile. [\@LatinR_Conf](https://twitter.com/LatinR_Conf)
   * September 26-29: [Why R?](http://whyr.pl/2019/). Warsaw, Poland [\@whyRconf](https://twitter.com/whyRconf)
+
+### November
+ 
+  * November 16: [SatRdays Cardiff](https://cardiff2019.satrdays.org/). Cardiff, UK.
 
 ### December
 

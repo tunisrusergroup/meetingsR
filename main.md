@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __395__ R user groups and events. 
+twitter names are missing. There are currently __396__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -924,6 +924,9 @@ knit: "bookdown::preview_chapter"
 
   * Panamá: [Panama R User's Group](https://www.meetup.com/Panama-R-Users-Group/)
 
+### Peru<a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_south_america.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
+  * Perú: [Peru R User's Group - Peruvian Association of R Programming](https://www.facebook.com/rgroupperu/)
 
 <!--chapter:end:02_useR_groups_south_america.Rmd-->
 

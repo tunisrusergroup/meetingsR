@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __396__ R user groups and events. 
+twitter names are missing. There are currently __397__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -536,6 +536,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Stockholm: [StockholmR](https://www.meetup.com/StockholmR/)
 
 ### Switzerland <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
   * Basel: [BaselR](http://www.baselr.org/)
   * Geneva: [Geneve R User Group](https://www.meetup.com/Geneve-R-User-Group/); [\@GenevaRUsers](https://twitter.com/GenevaRUsers)
   * Geneva: [R Lunch / Dejeuner R](http://use-r-carlvogt.github.io/prochains-lunchs/)
@@ -549,6 +550,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   * Bristol: [Bristol R User Group](https://www.meetup.com/Bristol-R-User-Group/); [\@BristolR](https://twitter.com/BristolRUsers)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
+  * Leeds: [R Users Leeds](https://r-users-leeds.netlify.com/about/); [\@r_users_leeds](https://twitter.com/r_users_leeds)
   * London: [LondonR](https://www.meetup.com/LondonR/)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
   * Newcastle: [R North East](https://rnortheast.github.io/); [\@RstatsNE](https://twitter.com/RstatsNE)

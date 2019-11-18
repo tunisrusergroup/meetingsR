@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __398__ R user groups and events. 
+twitter names are missing. There are currently __399__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1058,6 +1058,7 @@ gender diversity in the R community.
   * Austin, TX: [R-Ladies Austin](https://meetup.com/rladies-austin)
   * Portland, OR: [R-Ladies PDX](https://www.meetup.com/R-Ladies-PDX/) [\@RLadiesPDX](https://twitter.com/RLadiesPDX)
   * San Diego, CA: [R-Ladies San Diego](https://www.meetup.com/rladies-san-diego/) [\@RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
+  * Irvine, CA: [R-Ladies Irvine](https://www.meetup.com/rladies-irvine/) [\@RLadiesIrvine](https://twitter.com/RLadiesIrvine)
 
 ### Uruguay <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

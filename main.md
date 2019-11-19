@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __399__ R user groups and events. 
+twitter names are missing. There are currently __400__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -723,6 +723,7 @@ knit: "bookdown::preview_chapter"
   * Chicago: [Chicago R Users Group](https://www.meetup.com/ChicagoRUG/)
   * Chicago: [Chicago North West Suburbs R user group](https://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/)
   * Evanston: [Northwestern R User Group](https://northwestern-r-users.github.io/)
+  * Urbana-Champaign: [Urbana-Champaign UseR (UC-UR) Group](https://uc-ur.netlify.com/)
  
 #### Indiana {-}
 

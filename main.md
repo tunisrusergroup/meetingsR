@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __400__ R user groups and events. 
+twitter names are missing. There are currently __401__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -445,6 +445,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
   *  Hamburg: [Hamburg R User Group](https://www.meetup.com/Hamburg-R-User-Group/)
   *  Hannover: [Hannover R User Group](https://www.meetup.com/de-DE/Hannover-R-User-Group/) 
   *  Kassel: [Kasseler useR Group](https://www.meetup.com/Kassel-useR-Group/)
+  *  Kiel: [Kiel R User Group](https://www.meetup.com/de-DE/Kiel-R-User-Group/)
   *  Köln: [Köln R User Group](https://www.meetup.com/KoelnRUG/)
   *  Leipzig: [Leipzig R Statistical Computing](https://www.meetup.com/Leipzig-R-statistical-computing/)
   *  Mannheim/Ludwigshafen/Heidelberg: [R User Group Rhein-Neckar](https://www.meetup.com/R-User-Group-Rhein-Neckar)

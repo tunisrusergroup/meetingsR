@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __402__ R user groups and events. 
+twitter names are missing. There are currently __405__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -57,6 +57,7 @@ The format for listing an R event is
 
 ### February
 
+ * February 22: [SatRdays Auckland](https://auckland2020.satrdays.org/). Auckland, New Zealand.
  * February 29-29: [CelebRation 2020](http://www.celebration2020.org/). Copenhagen, Denmark.
 
 ### April
@@ -992,6 +993,13 @@ gender diversity in the R community.
 ### Nepal <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
+ 
+### New Zealand <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
+  * Auckland: [R-Ladies Auckland](https://www.meetup.com/rladies-auckland/);
+ [\@RLadiesAKL](https://twitter.com/RLadiesAKL)
+  * Christchurch: [R-Ladies Christchurch](https://www.meetup.com/rladies-christchurch/);
+  [\@RLadiesChch](@RLadiesChch)
  
 ### Norway <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

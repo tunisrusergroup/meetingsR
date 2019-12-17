@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __405__ R user groups and events. 
+twitter names are missing. There are currently __406__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -66,6 +66,7 @@ The format for listing an R event is
 
 ### May
 
+ * May 7-8: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
 
 ### July

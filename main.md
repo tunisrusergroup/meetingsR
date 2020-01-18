@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __408__ R user groups and events. 
+twitter names are missing. There are currently __409__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -63,6 +63,7 @@ The format for listing an R event is
 ### March
 
   * March 7: [SatRdays Johannesburg](https://joburg2020.satrdays.org/). Johannesburg, South Africa.
+  * March 14-15: [Chicago R Collaborative](https://chircollab.github.io/). Chicago, USA. [#chircollab](https://twitter.com/search?q=%23chircollab)
 
 ### April
 

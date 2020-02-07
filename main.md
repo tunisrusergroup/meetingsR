@@ -17,7 +17,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __411__ R user groups and events. 
+twitter names are missing. There are currently __412__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -911,6 +911,7 @@ knit: "bookdown::preview_chapter"
 
   * Brasilia: [Brasília UseR Meetup Linguagem de Programação "R"](https://www.meetup.com/Brasilia-UseR-Meetup/)
   * Campinas: [Campinas R Users Meetup](https://www.meetup.com/Campinas-R-Users-Meetup/)
+  * Ouro Preto: [Ouro Preto R Users Group](https://www.meetup.com/Grupo-de-Usuarios-de-R-em-Ouro-Preto/)
   * Porto Alegre: [RStat](https://www.meetup.com/UseRS_/)
   * São Paulo: [São Paulo R Users Group](https://www.meetup.com/useR-SP/)
   * Virtual: [R-br](http://leg.est.ufpr.br/doku.php/software:rbr)

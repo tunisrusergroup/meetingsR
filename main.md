@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __414__ R user groups and events. 
+twitter names are missing. There are currently __416__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -54,7 +54,7 @@ The format for listing an R event is
  * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
 
 ### February
-
+ * February 01: [SatRdays Abidjan](https://abidjan2020.satrdays.org/). Abidjan, Côte d'Ivoire.
  * February 22: [SatRdays Auckland](https://auckland2020.satrdays.org/). Auckland, New Zealand.
  * February 29-29: [CelebRation 2020](http://www.celebration2020.org/). Copenhagen, Denmark.
 
@@ -605,6 +605,10 @@ knit: "bookdown::preview_chapter"
 ### Algeria <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
  * Algiers: [Algerian R users](https://www.facebook.com/groups/1135595893158091/)
+ 
+### Côte d'Ivoire <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
+
+ * Abidjan: [Abidjan R users](https://www.meetup.com/Abidjan-R-users-Meetup/)
  
 ### Democratic Republic Of Congo <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __415__ R user groups and events. 
+twitter names are missing. There are currently __417__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -68,18 +68,26 @@ The format for listing an R event is
 
  * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
  * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA.
- 
-### May
 
- * May 7-8: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
- * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
+### June
+
+ * June 17-22: [eRum 2020](http://2020.erum.io/). Virtual. [\@erum2020_conf](https://twitter.com/erum2020_conf)
 
 ### July
 
-  * July 7-10: [useR! 2020](https://user2020.r-project.org/). St Louis, USA. [\@useR2020stl](https://twitter.com/useR2020stl)
-  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Munich, Germany. [\@useR2020muc](https://twitter.com/useR2020muc)
-  * July 15-17: [R Rencontres 2020](https://paris2020.rencontresr.fr/). Paris, France. [\@rencontres_R](https://twitter.com/rencontres_R)
-  
+  * July 7-10: [useR! 2020](https://user2020.r-project.org/). Virtual. [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Virtual. [\@useR2020muc](https://twitter.com/useR2020muc)
+  * July 14-15: [noRth 2020](https://rnorthconference.github.io/). Virtual.
+
+### August
+
+  * August 27-30: [Why R](https://2020.whyr.pl/). Virtual.
+  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/). Virtual.
+ 
+### December
+
+ * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
+
 ## 2019 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### January

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __416__ R user groups and events. 
+twitter names are missing. There are currently __415__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -80,10 +80,6 @@ The format for listing an R event is
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Munich, Germany. [\@useR2020muc](https://twitter.com/useR2020muc)
   * July 15-17: [R Rencontres 2020](https://paris2020.rencontresr.fr/). Paris, France. [\@rencontres_R](https://twitter.com/rencontres_R)
   
-### September
-
- * September 8-10: [EARL Conference](https://earlconf.com/). London, UK. [\@earlconf](https://twitter.com/earlconf)
-
 ## 2019 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### January

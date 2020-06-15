@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __419__ R user groups and events. 
+twitter names are missing. There are currently __421__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -69,24 +69,10 @@ The format for listing an R event is
  * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
  * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA.
 
-### May
- * May 30: [SatRday Chicago](https://chicago2020.satrdays.org). Virtual, charity event. [#satRdaychicago](https://twitter.com/search?q=%23satrdaychicago)
-
-### June
-
- * June 17-22: [eRum 2020](http://2020.erum.io/). Virtual. [\@erum2020_conf](https://twitter.com/erum2020_conf)
-
-### July
-
-  * July 7-10: [useR! 2020](https://user2020.r-project.org/). Virtual. [\@useR2020stl](https://twitter.com/useR2020stl)
-  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). Virtual. [\@useR2020muc](https://twitter.com/useR2020muc)
-  * July 14-15: [noRth 2020](https://rnorthconference.github.io/). Virtual.
-
 ### August
 
-  * August 27-30: [Why R](https://2020.whyr.pl/). Virtual.
-  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/). Virtual.
- 
+  * August 27-30: [Why R](https://2020.whyr.pl/).
+
 ### December
 
  * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
@@ -1092,6 +1078,39 @@ gender diversity in the R community.
  * Montevideo: [R-Ladies Montevideo](https://www.meetup.com/rladies-montevideo/)
 
 <!--chapter:end:03-Rladies.Rmd-->
+
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Virtual Events
+
+The format for listing a Virtual R event is
+
+  * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
+
+## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### May
+
+ * May 30: [SatRday Chicago](https://chicago2020.satrdays.org).
+
+### June
+
+ * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf)
+ * June 28: [BristolR](https://www.meetup.com/Bristol-R-User-Group/events/271309225/).
+
+### July
+
+  * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
+  * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
+
+### August
+
+  * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
+
+<!--chapter:end:04-virtual.Rmd-->
 
 # The data
 

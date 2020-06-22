@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __423__ R user groups and events. 
+twitter names are missing. There are currently __424__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1097,12 +1097,13 @@ The format for listing a Virtual R event is
 
 ### June
 
- * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf)
+ * June 17-22: [eRum 2020](http://2020.erum.io/). [\@erum2020_conf](https://twitter.com/erum2020_conf).
+ * June 23: [LondonR](https://mango-solutions.zoom.us/meeting/register/tJAtfuGsqjgiHtCTMIp4hgGHQTvfK8kD1kiU).
  * June 28: [BristolR](https://www.meetup.com/Bristol-R-User-Group/events/271309225/).
 
 ### July
 
-  * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl)
+  * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl).
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
   * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
 

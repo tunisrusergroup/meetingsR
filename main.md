@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __422__ R user groups and events. 
+twitter names are missing. There are currently __423__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1110,6 +1110,10 @@ The format for listing a Virtual R event is
   
   * August 12-15: [New York R Conference)(https://rstats.ai/nyr/)
   * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
+
+### October
+
+  * October 12-16: [R in Pharma](https://rinpharma.com/).
 
 <!--chapter:end:04-virtual.Rmd-->
 

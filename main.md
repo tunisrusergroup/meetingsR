@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __425__ R user groups and events. 
+twitter names are missing. There are currently __427__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -298,9 +298,10 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
   * Bangalore: [Bengaluru R UseR Group (BRUG)](https://www.meetup.com/BengaluRu-use-R-gRoup/)
   * Chennai: [R Users Group Chennai](https://www.meetup.com/R-Users-Group-Chennai/)
-  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * Delhi: [Delhi NCR R useR Group](https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/)
+  * Guna: [R Meetup Guna](https://www.facebook.com/RMeetupGuna-103488354788793/); [\@RMeetupGuna](https://twitter.com/RMeetupGuna)
   * Hyderabad: [R Users Group Hyderabad RUGH](https://www.meetup.com/R-Users-Group-Hyderabad/)
+  * Mumbai: [mumbai-r-user-group](https://www.meetup.com/mumbai-r-user-group/)
   * New Delhi: [New Delhi UseR Group](https://www.meetup.com/New-Delhi-R-UseR-Group/)
   * Pune: [Pune R User Group](https://www.meetup.com/Pune-R-junkies-Meetup/)
 
@@ -353,11 +354,9 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 
   * Kuala Lumpur: [myRUG](https://www.meetup.com/MY-RUserGroup/)
   
-  
 ### Nepal <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Nepal: [R User Group Nepal](https://www.meetup.com/R-User-Group-Nepal/); [\@rugnepal](https://twitter.com/rugnepal)
-  
 
 ### Pakistan <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_asia.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
@@ -1089,6 +1088,12 @@ The format for listing a Virtual R event is
 
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
+## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### July
+
+ * July 6-9:: [useR 20201](https://user2021.r-project.org/).
+
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 
 ### May
@@ -1105,9 +1110,9 @@ The format for listing a Virtual R event is
 
   * July 7-10: [useR! 2020](https://user2020.r-project.org/). [\@useR2020stl](https://twitter.com/useR2020stl).
   * July 7-10: [useR! 2020 European Hub](https://user2020muc.r-project.org/). [\@useR2020muc](https://twitter.com/useR2020muc).
-  * July 13: [Newcastle Data Science Meet-up)(https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/).
   * July 14-15: [noRth 2020](https://rnorthconference.github.io/).
-
+  * July 23: [Newcastle Data Science Meet-up)(https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/271494400/).
+ 
 ### August
   
   * August 12-15: [New York R Conference)(https://rstats.ai/nyr/)

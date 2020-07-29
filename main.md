@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __427__ R user groups and events. 
+twitter names are missing. There are currently __426__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -54,6 +54,7 @@ The format for listing an R event is
  * January 27-30: [rstudio::conf(2020)](https://www.rstudio.com/conference/). San Francisco, USA.
 
 ### February
+
  * February 01: [SatRdays Abidjan](https://abidjan2020.satrdays.org/). Abidjan, Côte d'Ivoire.
  * February 22: [SatRdays Auckland](https://auckland2020.satrdays.org/). Auckland, New Zealand.
  * February 29-29: [CelebRation 2020](http://www.celebration2020.org/). Copenhagen, Denmark.
@@ -66,12 +67,7 @@ The format for listing an R event is
 
 ### April
 
- * April 3-4: [SatRdays Newcastle](https://newcastle2020.satrdays.org). Newcastle upon Tyne, UK.
  * April 17: [Women+ Data Science \@MSU](https://women-plus-datascience.github.io/home). East Lansing, MI, USA.
-
-### August
-
-  * August 27-30: [Why R](https://2020.whyr.pl/).
 
 ### December
 
@@ -1115,9 +1111,13 @@ The format for listing a Virtual R event is
  
 ### August
   
-  * August 12-15: [New York R Conference)(https://rstats.ai/nyr/)
+  * August 12-15: [New York R Conference](https://rstats.ai/nyr/)
   * August 27-30: [R in Medicine](https://events.linuxfoundation.org/r-medicine/).
 
+## September
+
+  * September 24-27: [Why R](https://2020.whyr.pl/)
+  
 ### October
 
   * October 12-16: [R in Pharma](https://rinpharma.com/).

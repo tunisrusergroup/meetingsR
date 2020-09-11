@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __427__ R user groups and events. 
+twitter names are missing. There are currently __428__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1137,6 +1137,7 @@ Additionally, you can download a convenient CSV file of the data
 
  * Conferences: https://jumpingrivers.github.io/meetingsR/events.csv
  * User Groups: https://jumpingrivers.github.io/meetingsR/groups.csv
+ * Virtual events: https://jumpingrivers.github.io/meetingsR/virtual.csv
 
 The R scripts used to generate these CSV files are also located in the GitHub repo
 

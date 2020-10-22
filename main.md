@@ -71,7 +71,7 @@ The format for listing an R event is
 
 ### December
 
- * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austra.
+ * December 2-4: The Use of R in Official Statistics - [uRos2020](http://r-project.ro/conference2020.html#keynote_speakers). Vienna, Austria.
 
 ## 2019 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/01-events.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
 

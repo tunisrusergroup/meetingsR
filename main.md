@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __431__ R user groups and events. 
+twitter names are missing. There are currently __432__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1091,7 +1091,8 @@ The format for listing a Virtual R event is
   * July 6-9: [useR 20201](https://user2021.r-project.org/).
 
 ### January
-
+  
+  * January 21: [RStudio Global](https://rstudio.com/conference/).
   * January: [Evidence Synthesis & Meta-Analysis in R](https://www.eshackathon.org/events/2021-01-ESMAR.html). [\@eshackathon](https://twitter.com/eshackathon)
 
 ## 2020 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}

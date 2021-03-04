@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __433__ R user groups and events. 
+twitter names are missing. There are currently __436__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1085,6 +1085,15 @@ The format for listing a Virtual R event is
   * Date: [event name & link](http://www.example.com). [\@twitter_handle](https://twitter.com/twitter_handle).
 
 ## 2021 <a href="https://github.com/jumpingrivers/meetingsR/blob/master/04-virtual.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a> {-}
+
+### September
+
+  * September 29-30: [noRth 2021](https://rnorthconference.github.io/).
+  * September 6-10: [Earl 20201](https://info.mango-solutions.com/earl-2021).
+
+### August
+
+   * August 4-6: [BioC2021](https://bioc2021.bioconductor.org/).
 
 ### July
 

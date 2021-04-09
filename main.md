@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __438__ R user groups and events. 
+twitter names are missing. There are currently __437__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -866,7 +866,6 @@ knit: "bookdown::preview_chapter"
 ### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_oceania.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Adelaide: [ARUG](https://www.meetup.com/Adelaide-R-Users/)
-  * Brisbane: [BURGr](https://www.meetup.com/Brisbane-Users-of-R-Group-BURGr/)
   * Canberra: [CANRUG](https://www.meetup.com/Canberra-R-Users-Group/)
   * Hobart: [HRUG](https://www.meetup.com/Hobart-R-Users-Group/)
   * Melbourne: [MelbURN](https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/)
@@ -957,7 +956,7 @@ gender diversity in the R community.
 ### Australia <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   * Adelaide: [R-Ladies Adelaide](https://www.meetup.com/rladies-adelaide/)
-  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesAU](https://twitter.com/RLadiesAU).
+  * Melbourne: [R-Ladies Melbourne](https://www.meetup.com/R-Ladies-Melbourne/); [\@RLadiesMelb](https://twitter.com/RLadiesMelb/).
 
 ### Belgium <a href="https://github.com/jumpingrivers/meetingsR/blob/master/03-Rladies.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 

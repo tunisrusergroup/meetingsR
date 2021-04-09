@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __463__ R user groups and events. 
+twitter names are missing. There are currently __466__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -422,6 +422,7 @@ The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-pr
 ### France <a href="https://github.com/jumpingrivers/meetingsR/blob/master/02_useR_groups_europe.Rmd" class = "h2-side-link"><img src="https://bit.ly/2RRirG7" alt="fa-edit" class="edit"></a>
 
   *  Brest: [DataScience Brest](https://www.meetup.com/fr-FR/Data-Science-Brest/)
+  *  Lille: [R Lille](http://meetup.rlille.fr/), [@rlille_rug](https://twitter.com/rlille_rug)
   *  Lyon: [RLyon](https://www.meetup.com/R-Lyon/)
   *  Jouy-en-Josas: [R4Ciam](http://ciam.inra.fr/r4ciam/)
   *  Montpellier: [Groupe des utilisateurs du logiciel R](http://forums.cirad.fr/logiciel-R/)
@@ -1149,6 +1150,11 @@ The format for listing a Virtual R event is
 ### June
 
   * June 4-5: [CascadiaRConf](https://cascadiarconf.com/). [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  
+### April
+
+  * April 15: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277031496/). [\@rlille_rug](https://twitter.com/rlille_rug).
+  * April 29: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277132394/). [\@rlille_rug](https://twitter.com/rlille_rug).
 
 ### January
   

@@ -16,7 +16,7 @@ url: 'https\://jumpingrivers.github.io/meetingsR/'
 
 This site attempts to list R conferences and local useR groups. Please 
 feel free to add any missing group or conference. In particular, most of the associated 
-twitter names are missing. There are currently __465__ R user groups and events. 
+twitter names are missing. There are currently __466__ R user groups and events. 
 To propose a change, just click the pencil icon next to the titles.
 
 Keep up to date by following [\@rstats_meetings](https://twitter.com/rstats_meetings).
@@ -1150,6 +1150,7 @@ The format for listing a Virtual R event is
 ### June
 
   * June 4-5: [CascadiaRConf](https://cascadiarconf.com/). [\@cascadiarconf](https://twitter.com/cascadiarconf)
+  * June 17: [R Lille Meetup](https://www.meetup.com/R-Lille/events/277902715/). [\@rlille_rug](https://twitter.com/rlille_rug)
   
 ### April
 
